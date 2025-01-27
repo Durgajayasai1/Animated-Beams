@@ -100,7 +100,7 @@ class HomeState extends State<Home> with SingleTickerProviderStateMixin {
       fromOffset: fromOffset,
       toOffset: toOffset,
       pathColor: Colors.grey.withValues(alpha: 0.2),
-      gradientStartColor: Colors.deepOrange,
+      gradientStartColor: Colors.blue,
       gradientStopColor: Colors.purple,
       curvature: 10.0,
       duration: const Duration(seconds: 2),
